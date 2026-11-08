@@ -1,2 +1,2 @@
-# PowerRangers
-Trying to save the world
+# Titans
+BU-COS 209 Group 2
